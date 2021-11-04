@@ -1,0 +1,14 @@
+body{
+    background: black;
+    
+}
+
+
+
+  /*fixar rodape(footer) no final*/
+  .fixarRodape{
+    bottom: 0;
+    position: fixed;
+   width: 100%;
+  } 
+  /*fim fixar footer*/

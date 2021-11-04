@@ -1,0 +1,17 @@
+html{
+    scroll-behavior: smooth ; /*diminuindo a velocidade do scrol*/
+}
+
+
+
+.corPrimaria{
+    background-color: rgb(7, 7, 255);
+}
+
+.corBorda{
+    background-color: white;
+}
+
+.corColapse{
+    background-color: rgb(63, 60, 60);
+}

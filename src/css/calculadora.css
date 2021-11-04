@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+}
+
+.calculadora{
+    width: 337px;
+    height: 370px;
+    background-color: rgb(85, 84, 84);
+    border-radius: 5px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.visor input{
+    margin: 10px;
+    width: 300px;
+    height: 30px;
+    text-align: center;
+    font-size: 25px;
+
+}
+
+.botoes input{
+    margin: 10px;
+    font-size: 30px;
+    width: 60px;
+    border-radius: 5px;
+
+}
+
+.igual{
+    background-color: rgb(1, 86, 143);/*cor do botão igual*/
+    width: 10px;
+    margin-left: 30px;
+
+}
+
+.apagar{
+    background-color: rgb(112, 4, 4);/*cor do botão igual*/
+   
+
+}
+
+body{
+    background-color: rgb(42, 41, 41)
+  }
+  
+  
+  
+  
+
+
