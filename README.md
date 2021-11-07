@@ -1,2 +1,2 @@
 # meu-portifolio
- meu portifolio subtitituindo o antigo
+ meu portifolio substituindo o antigo
