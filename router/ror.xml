@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
 <channel>
-  <title>ROR Sitemap for https://gean-dev-portifolio.netlify.app/</title>
-  <link>https://gean-dev-portifolio.netlify.app/</link>
+  <title>ROR Sitemap for https://gean-dev-portfolio.netlify.app/</title>
+  <link>https://gean-dev-portfolio.netlify.app/</link>
 
 <item>
-     <link>https://gean-dev-portifolio.netlify.app/</link>
+     <link>https://gean-dev-portfolio.netlify.app/</link>
      <title>Gean.dev</title>
      <description>Gean.dev</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -13,7 +13,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://gean-dev-portifolio.netlify.app/screens/public/dark_mode/link.html</link>
+     <link>https://gean-dev-portfolio.netlify.app/screens/public/dark_mode/curriculo_&amp;_diplomas.html</link>
      <title>Gean.Dev</title>
      <description>Gean.Dev</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -21,7 +21,15 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://gean-dev-portifolio.netlify.app/screens/light_index.html</link>
+     <link>https://gean-dev-portfolio.netlify.app/screens/public/dark_mode/link.html</link>
+     <title>Gean.Dev</title>
+     <description>Gean.Dev</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://gean-dev-portfolio.netlify.app/screens/light_index.html</link>
      <title>Gean.dev</title>
      <description>Gean.dev</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -29,7 +37,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://gean-dev-portifolio.netlify.app/screens/public/dark_mode/relogio.html</link>
+     <link>https://gean-dev-portfolio.netlify.app/screens/public/dark_mode/projeto.html</link>
      <title>Gean.Dev</title>
      <description>Gean.Dev</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -37,7 +45,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://gean-dev-portifolio.netlify.app/screens/public/dark_mode/projeto.html</link>
+     <link>https://gean-dev-portfolio.netlify.app/screens/public/dark_mode/calculadora.html</link>
      <title>Gean.Dev</title>
      <description>Gean.Dev</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -45,7 +53,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://gean-dev-portifolio.netlify.app/screens/public/dark_mode/calculadora.html</link>
+     <link>https://gean-dev-portfolio.netlify.app/screens/public/dark_mode/cronometro.html</link>
      <title>Gean.Dev</title>
      <description>Gean.Dev</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -53,7 +61,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://gean-dev-portifolio.netlify.app/screens/public/dark_mode/cronometro.html</link>
+     <link>https://gean-dev-portfolio.netlify.app/screens/public/dark_mode/contato.html</link>
      <title>Gean.Dev</title>
      <description>Gean.Dev</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -61,7 +69,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://gean-dev-portifolio.netlify.app/screens/public/dark_mode/contato.html</link>
+     <link>https://gean-dev-portfolio.netlify.app/screens/public/dark_mode/termos.html</link>
      <title>Gean.Dev</title>
      <description>Gean.Dev</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -69,15 +77,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://gean-dev-portifolio.netlify.app/screens/public/dark_mode/termos.html</link>
-     <title>Gean.Dev</title>
-     <description>Gean.Dev</description>
-     <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>1</ror:sortOrder>
-     <ror:resourceOf>sitemap</ror:resourceOf>
-</item>
-<item>
-     <link>https://gean-dev-portifolio.netlify.app/index.html</link>
+     <link>https://gean-dev-portfolio.netlify.app/index.html</link>
      <title>Gean.dev</title>
      <description>Gean.dev</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -85,7 +85,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://gean-dev-portifolio.netlify.app/screens/public/light_mode/link.html</link>
+     <link>https://gean-dev-portfolio.netlify.app/screens/public/light_mode/curriculo_&amp;_diplomas.html</link>
      <title>Gean.Dev</title>
      <description>Gean.Dev</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -93,7 +93,87 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://gean-dev-portifolio.netlify.app/screens/public/light_mode/relogio.html</link>
+     <link>https://gean-dev-portfolio.netlify.app/resources/app/certificados/CRIE%20UM%20SITE%20SIMPLES%20USANDO%20HTML,%20CSS%20E%20JAVASCRIPT.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://gean-dev-portfolio.netlify.app/resources/app/certificados/certificado%20de%20conclusao%20do%20ensino%20medio.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://gean-dev-portfolio.netlify.app/resources/app/certificados/certificado%20de%20historico%20escolar%20ensino%20medio.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://gean-dev-portfolio.netlify.app/resources/app/certificados/certificado_evento_20-05-2020.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://gean-dev-portfolio.netlify.app/resources/app/certificados/certificado%20aluno%20destaque%202018.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://gean-dev-portfolio.netlify.app/resources/app/certificados/certificado-gestao-empresarial.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://gean-dev-portfolio.netlify.app/resources/app/certificados/certificado-brasil-profissional.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://gean-dev-portfolio.netlify.app/resources/app/certificados/certificado%20de%20planejamento%20e%20desenvolvimento%20pessoal.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://gean-dev-portfolio.netlify.app/resources/app/certificados/certificado%20de%20conclus%C3%A3o%20da%20quarta%20serie.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://gean-dev-portfolio.netlify.app/resources/app/outros/carta%20de%20recomendacao.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://gean-dev-portfolio.netlify.app/screens/public/light_mode/link.html</link>
      <title>Gean.Dev</title>
      <description>Gean.Dev</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -101,7 +181,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://gean-dev-portifolio.netlify.app/screens/public/light_mode/projeto.html</link>
+     <link>https://gean-dev-portfolio.netlify.app/screens/public/light_mode/projeto.html</link>
      <title>Gean.Dev</title>
      <description>Gean.Dev</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -109,7 +189,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://gean-dev-portifolio.netlify.app/screens/public/light_mode/calculadora.html</link>
+     <link>https://gean-dev-portfolio.netlify.app/screens/public/light_mode/calculadora.html</link>
      <title>Gean.Dev</title>
      <description>Gean.Dev</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -117,7 +197,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://gean-dev-portifolio.netlify.app/screens/public/light_mode/cronometro.html</link>
+     <link>https://gean-dev-portfolio.netlify.app/screens/public/light_mode/cronometro.html</link>
      <title>Gean.Dev</title>
      <description>Gean.Dev</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -125,7 +205,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://gean-dev-portifolio.netlify.app/screens/public/light_mode/contato.html</link>
+     <link>https://gean-dev-portfolio.netlify.app/screens/public/light_mode/contato.html</link>
      <title>Gean.Dev</title>
      <description>Gean.Dev</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -133,7 +213,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://gean-dev-portifolio.netlify.app/screens/public/light_mode/termos.html</link>
+     <link>https://gean-dev-portfolio.netlify.app/screens/public/light_mode/termos.html</link>
      <title>Gean.Dev</title>
      <description>Gean.Dev</description>
      <ror:updatePeriod></ror:updatePeriod>
@@ -141,7 +221,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://gean-dev-portifolio.netlify.app/resources/app/termos%20de%20politica%20e%20privacidade%20de%20gean%20dev%20portifolio.pdf</link>
+     <link>https://gean-dev-portfolio.netlify.app/resources/app/termos%20de%20politica%20e%20privacidade%20de%20gean%20dev%20portifolio.pdf</link>
      <title></title>
      
      <ror:updatePeriod></ror:updatePeriod>
