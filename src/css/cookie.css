@@ -1,0 +1,28 @@
+.box-cookies.hide {
+    display: none !important;
+}
+
+.box-cookies {
+    position: fixed;
+    background: rgba(255, 255, 255, 0.795);
+    width: auto;
+    height: auto;
+    bottom: 10px;
+    left: 10px;
+    right: 10px;
+    align-items: center;
+    text-align: center;
+    box-shadow: #333 5px 5px 5px;
+}
+
+#aceitar{
+    background-color: gray;
+    padding-top: 12px;  
+    text-align: center;
+}
+
+@media screen and (max-width: -ms-expand) { /*600px*/
+    .box-cookies {
+        flex-direction: column;
+    }
+}
