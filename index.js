@@ -1,4 +1,6 @@
  //colocar aviso que deve ser notificados na index
+
+ //cookies
 if (!localStorage.Cookies) {
     document.querySelector(".box-cookies").classList.remove('hide');
 }
@@ -12,4 +14,6 @@ const btnCookies = document.querySelector(".btn-cookies");
 
 btnCookies.addEventListener('click', acceptCookies);
 
-onclick = alert('permita a geolocalização para total experiencia do site. \ncaso apareça um problema entre em contato.')
+//cookies fim
+
+onclick = alert('permita a geolocalização para total experiencia do site. \ncaso apareça um problema entre em contato.')//alerta para ativar a geolocalização
