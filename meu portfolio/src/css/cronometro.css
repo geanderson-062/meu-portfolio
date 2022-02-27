@@ -3,12 +3,10 @@ body{
     
 }
 
-
-
   /*fixar rodape(footer) no final*/
   .fixarRodape{
     bottom: 0;
     position: fixed;
-   width: 100%;
+    width: 100%;
   } 
   /*fim fixar footer*/
