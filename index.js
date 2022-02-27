@@ -17,3 +17,17 @@ btnCookies.addEventListener('click', acceptCookies);
 //cookies fim
 
 onclick = alert('permita a geolocalização para total experiencia do site. \ncaso apareça um problema entre em contato.')//alerta para ativar a geolocalização
+
+//notificação
+
+if (window.Notification&&Notification.permission!=="denied") {
+
+    Notification.requestPermission(function(status) {
+
+        let n = new Notification('Titulo', {
+            body:'Conteudo da notificação'
+        })
+        
+    })
+    
+}
