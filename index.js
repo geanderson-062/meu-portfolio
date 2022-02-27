@@ -24,8 +24,8 @@ if (window.Notification&&Notification.permission!=="denied") {
 
     Notification.requestPermission(function(status) {
 
-        let n = new Notification('Titulo', {
-            body:'Conteudo da notificação'
+        let n = new Notification('bem vindo', {
+            body:'Entre em contato quando quiser. '
         })
         
     })
